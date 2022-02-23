@@ -1,30 +1,35 @@
 body{
-    font-family: Andale Mono, monospace;
-    font-size: 16px;
-    background: linear-gradient(180deg, rgb(194, 230, 34), grey);
+    font-family: MV Boli;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    color:rgb(4, 4, 53);
+    background: linear-gradient(180deg, #eda909, #8ce0eb);
     text-align: center;
 }
 
 h1{
     font-size: 40px;
-    font-family: Courier, monospace;
-    background: linear-gradient(180deg, grey, white);
+    font-family: Book Antiqua;
+    color:rgb(4, 4, 53);
+    background: #73926c;
     text-align: center;
 }
 
 h2{
-    font-family: Courier, monospace;
+    font-family: MV Boli;
     font-style: italic;
     font-size: 20px;
+    color:rgb(4, 4, 53);
     text-align: center;
 }
 
 h3{
-    font-family: cursive;
-    font-style: italic;
-    font-size: 18px;
+    font-family: Gabriola;
+    font-size: 22px;
+    font-weight: 900;
     font-variant: small-caps;
-    font-stretch: ultra-expanded;
+    color:rgb(4, 4, 53);
     text-align: center;
 }
 
@@ -32,10 +37,10 @@ h4{
     font-family: cursive;
     font-style: italic;
     font-size: 16px;
-    color: white;
+    color:rgb(4, 4, 53);
     font-variant: small-caps;
     font-stretch: ultra-expanded;
-    background: black;
+    background: #d2ccb1;
     text-align: center;
 }
 
